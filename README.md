@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently studying
-Software development within embedded systems and IoT at Nackademin, with a focus on C/C++ programming, embedded development, and system-level problem solving.
+Software development within embedded systems and IoT at Nackademin, with a focus on 
+C/C++ programming, embedded development,
+ and system-level problem solving.
 
 I’m looking to collaborate on
 Beginner-friendly embedded systems projects, IoT solutions, and small-scale software or hardware integrations where I can learn and contribute.
@@ -9,10 +11,9 @@ I’m looking for help with
 Deepening my understanding of embedded Linux, real-time systems, and best practices in low-level software development.
 
 I’m currently learning
-Embedded systems development, IoT architectures, C/C++, version control, and agile development methods.
+Embedded systems development, IoT architectures, C/C++, version control,
+ and agile development methods.
 
-Ask me about
-Embedded systems, basic IoT concepts, C/C++, software development studies, or IT troubleshooting and support.
 
 Fun fact
 I enjoy solving technical problems both in my studies and everyday life, from debugging code to fixing networks and devices at home.
