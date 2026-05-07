@@ -42,10 +42,14 @@ Embedded IoT project developed in C with focus on hardware interaction and devic
 
 Finite state machine implementation in C for passage and control system simulation.
 ### (More work in progress — coming soon!)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=quratulanirfan-gif\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=quratulanirfan-gif\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quratulanirfan-gif\&theme=tokyonight\&hide_border=true\&layout=compact)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=quratulanirfan-gif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=quratulanirfan-gif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=quratulanirfan-gif\&theme=onedark\&no-frame=true\&no-bg=true\&margin-w=10)
 ### 📚 Hobbies
 * DIY/crafts
 * Music
