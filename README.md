@@ -1,69 +1,55 @@
-# 💫 About Me:
-I’m currently studying
-Software development within embedded systems and IoT at Nackademin, with a focus on 
-C/C++ programming, embedded development,
- and system-level problem solving.
+# 💫 Hi, I'm Qurat 👋
 
-I’m looking to collaborate on
-Beginner-friendly embedded systems projects, IoT solutions, and small-scale software or hardware integrations where I can learn and contribute.
+Embedded Systems & IoT student at Nackademin with a growing passion for low level programming, networking, hardware and software integration.
 
-I’m looking for help with
-Deepening my understanding of embedded Linux, real-time systems, and best practices in low-level software development.
+I enjoy building practical systems in C/C++ and learning how software interacts directly with hardware. Most of my projects focus on embedded development, communication protocols, networking, and problem-solving through hands-on experimentation.
 
-I’m currently learning
-Embedded systems development, IoT architectures, C/C++, version control,
- and agile development methods.
+#### 🌐 Socials: 
 
+https://www.linkedin.com/in/qurat-irfan-310689290/
 
-Fun fact
-I enjoy solving technical problems both in my studies and everyday life, from debugging code to fixing networks and devices at home.
+### 🧠 Currently Exploring & Improving
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qurat-irfan-310689290/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=quratulanirfan-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=quratulanirfan-gif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quratulanirfan-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=quratulanirfan-gif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+- Embedded Systems Development
+- IoT Architectures
+- C / C++
+- Socket Programming
+- Git & GitHub
 
 ### 💻⚙️ Projects
 
-* TCP Chat Room *
-  
-  Java-based chat application using TCP sockets for real-time communication.
-* Chat Room UDP *
- 
-  Lightweight UDP chat system focused on fast message transfer.
-* Access Control System *
-  
-  C-based security and access management system.
-* Safe Access System *
-  
-  C++ project for secure authentication and access handling.
-* IoT Blink Hell *
-  
-  Embedded IoT project developed in C.
-* State Machine Passage System *
-  
-  C-based state machine implementation for passage control systems.
+### 🔹 [TCP Chat Room](https://github.com/quratulanirfan-gif/TCP-Chat-Room)
 
-(More work in progress — coming soon!)
+Java-based TCP socket chat application supporting real-time communication and client-server networking concepts.
 
+### 🔹 [Chat Room UDP](https://github.com/quratulanirfan-gif/Chat-Room-UDP)
+
+UDP-based messaging application focused on connectionless communication and lightweight message transfer.
+
+### 🔹 [Access Control System](https://github.com/quratulanirfan-gif/Access-Control-System)
+
+C-based embedded-style access management system implementing low-level logic and system control concepts.
+
+### 🔹 [Safe Access System](https://github.com/quratulanirfan-gif/Safe-Access-Individual-Assignment)
+
+C++ project for secure authentication and access handling.
+
+### 🔹 [IoT25BlinkHell](https://github.com/quratulanirfan-gif/IOT25BlinkHell)
+
+Embedded IoT project developed in C with focus on hardware interaction and device behavior.
+
+### 🔹 [State Machine Passage System](https://github.com/quratulanirfan-gif/state-machine-passagesystem-c)
+
+Finite state machine implementation in C for passage and control system simulation.
+### (More work in progress — coming soon!)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=quratulanirfan-gif&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=quratulanirfan-gif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ### 📚 Hobbies
 * DIY/crafts
 * Music
 * Travel & Explore
 ✨ “Creating projects while learning along the way.”
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=quratulanirfan-gif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=quratulanirfan-gif&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡Fun Fact
+I enjoy solving technical problems both in code and everyday life — from debugging software to fixing networks and devices at home.
