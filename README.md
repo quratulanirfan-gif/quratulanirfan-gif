@@ -32,11 +32,27 @@ I enjoy solving technical problems both in my studies and everyday life, from de
 ![](https://github-profile-trophy.vercel.app/?username=quratulanirfan-gif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 💻⚙️ Projects
-* Cash Register (POS) – Java Swing GUI with VAT calculation    
-* Billboard Display App – Java GUI for dynamic messages
-* Card Access System - C
 
-(more coming soon!)
+* TCP Chat Room *
+  
+  Java-based chat application using TCP sockets for real-time communication.
+* Chat Room UDP *
+ 
+  Lightweight UDP chat system focused on fast message transfer.
+* Access Control System *
+  
+  C-based security and access management system.
+* Safe Access System *
+  
+  C++ project for secure authentication and access handling.
+* IoT Blink Hell *
+  
+  Embedded IoT project developed in C.
+* State Machine Passage System *
+  
+  C-based state machine implementation for passage control systems.
+
+(More work in progress — coming soon!)
 
 ### 📚 Hobbies
 * DIY/crafts
