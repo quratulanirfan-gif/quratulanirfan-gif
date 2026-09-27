@@ -80,6 +80,6 @@ Music
 Travel & Exploring
 ⚡ Fun Fact
 
-I enjoy solving technical problems both in code and everyday life — from debugging software and networking issues to troubleshooting devices at home.
+I enjoy solving technical problems both in code and everyday life, from debugging software and networking issues to troubleshooting devices at home.
 
 ✨ Creating projects while learning along the way.
