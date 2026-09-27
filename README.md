@@ -4,7 +4,7 @@ I'm a Software Development student at Nackademin, specializing in Embedded Syste
 
 I enjoy building practical systems and learning through hands-on projects using C, C++, Java, Python, and embedded technologies. My projects cover areas such as socket programming, communication protocols, embedded systems, finite state machines, access control, and application development.
 
-I'm particularly interested in understanding how different components communicate and work together — from embedded devices and sensors to software services and databases.
+I'm particularly interested in understanding how different components communicate and work together from embedded devices and sensors to software services and databases.
 
 #### 🌐 Socials: 
 
